@@ -22,3 +22,11 @@ Activation of the video module in order to acquire the images. The vchiq files s
  chmod 777 / dev / vchiq
 
 
+
+
+Good Luck !!!
+
+Odilon HEMA NGONGO
+
+FullStack Developper
+
