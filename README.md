@@ -11,5 +11,10 @@ You must create a directory in directory / var / www / html / and then name it t
 Activation of the video module in order to acquire the images. The vchiq files should be given rights at each startup as follows:
 
 > _ sudo -s
+
+
 > _ chmod 777 -R / var /
+
+
 > _ chmod 777 / dev / vchiq
+
