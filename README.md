@@ -24,6 +24,12 @@ Activation of the video module in order to acquire the images. The vchiq files s
 
 
 
+
+
+
+
+
+
 Good Luck !!!
 
 Odilon HEMA NGONGO
